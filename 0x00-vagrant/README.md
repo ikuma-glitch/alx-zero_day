@@ -1,0 +1,1 @@
+Uname displays basic information about the operating system and hardware
